@@ -26,4 +26,5 @@ Outcome: Class variable (0 or 1)
 2.If missing values are there,replace that with consideration of outcome class values.
 
 3.Build a best model among all classifier with optimum values of hyper-parameter.
+
 4.You may use gridsearchCV for the same.
