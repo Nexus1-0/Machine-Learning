@@ -11,7 +11,6 @@ Attribute Information(Categorical):
 age (numeric)
 
 job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-
-
 employed','services','student','technician','unemployed','unknown')
 
 marital : marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed)
